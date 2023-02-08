@@ -1,1 +1,10 @@
-/** stylesheet **/
+/* Image style */
+#scrollUp {
+    background-image: url("../img/top.png");
+    bottom: 10px;
+    right: 10px;
+    width: 40px;    /* Width of image */
+    height: 40px;   /* Height of image */
+    text-indent: -9999999px;
+    display: block;
+}
