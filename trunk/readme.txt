@@ -2,10 +2,10 @@
 Contributors: mehrazmorshed
 Donate link: https://www.buymeacoffee.com/mehrazmorshed
 Tags: scroll up, scroll to top, scroll button, scroll up button, tap to top
-Requires at least: 3.0
-Tested up to: 6.1.1
-Stable tag: 1.1
-Requires PHP: 7.0
+Requires at least: 5.2
+Tested up to: 6.3
+Stable tag: 1.3
+Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
