@@ -67,6 +67,16 @@ Just deactivate the plugin.
 
 == Changelog ==
 
+= 1.3 =
+*Release Date - 10 August 2023*
+
+* Tested with version 6.3
+
+= 1.2 =
+*Release Date - 7 March 2023*
+
+* Translation Support
+
 = 1.1 =
 *Release Date - 18 February 2023*
 
@@ -77,8 +87,3 @@ Just deactivate the plugin.
 *Release Date - 1 February 2023*
 
 * Initial release.
-
-== Upgrade Notice ==
-
-= 1.0 =
-New version available.
