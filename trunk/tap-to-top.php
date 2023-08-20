@@ -4,8 +4,10 @@
  * Plugin Name:       Tap To Top
  * Plugin URI:        https://wordpress.org/plugins/tap-to-top/
  * Description:       Tap the button and scroll to top immidiately.
- * Version:           1.0.0
- * Tested Up to:      6.1.1
+ * Version:           1.3
+ * Tested Up to:      6.3
+ * Requires at least: 5.2
+ * Requires PHP:      7.2
  * Author:            Mehraz Morshed
  * Author URI:        https://profiles.wordpress.org/mehrazmorshed/
  * License:           GPL v2 or later
