@@ -52,4 +52,3 @@ function taptotop_activate_plugin() {
 	<?php
 }
 add_action( "wp_footer", "taptotop_activate_plugin" );
-?>
